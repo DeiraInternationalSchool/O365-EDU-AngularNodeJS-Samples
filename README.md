@@ -1,3 +1,21 @@
+---
+topic: sample
+products:
+- Office 365
+languages:
+- Angular
+- TypeScript
+extensions:
+  contentType: samples
+  technologies:
+  - Microsoft Graph
+  services:
+  - Education
+  - Office 365
+  createdDate: 1/20/2017 2:19:22 PM
+  scenarios:
+  - Education
+---
 # EDUGraphAPI - Office 365 Education Code Sample
 
 In this sample, we show you how to integrate with school roles/roster data as well as O365 services available via the Graph API. 
