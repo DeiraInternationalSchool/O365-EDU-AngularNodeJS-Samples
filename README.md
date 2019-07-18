@@ -1,10 +1,9 @@
 ---
 topic: sample
 products:
-- Office 365
+- office-365
 languages:
-- Angular
-- TypeScript
+- typescript
 extensions:
   contentType: samples
   technologies:
@@ -12,6 +11,8 @@ extensions:
   services:
   - Education
   - Office 365
+  platforms:
+  - AngularJS
   createdDate: 1/20/2017 2:19:22 PM
   scenarios:
   - Education
